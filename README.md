@@ -9,6 +9,9 @@ the monuments used as examples for this concept. We added cards of information t
 monuments.
 
 Using AR We used Unity3D to manipulate 3D models of the monuments and attraction in the near by city of The District of Columbia. The 3D 
-model is shown, along with information about the monument, when the following surfaces are shown. One dollar bill: The Washington 
-Monument, Five dollar bill: The Capitol Building, Twenty dollar bill: The White House
+model is shown, along with information about the monument, when the following surfaces are shown. 
+One dollar bill: The Washington Monument
+![AR Washington Monument](assets/CityAR_monument.jpg?raw=true "Washington Monument on a one dollar bill")
+
+Five dollar bill: The Capitol Building, Twenty dollar bill: The White House
 
