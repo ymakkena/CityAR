@@ -13,5 +13,8 @@ model is shown, along with information about the monument, when the following su
 One dollar bill: The Washington Monument
 ![AR Washington Monument](assets/CityAR_monument.jpg?raw=true "Washington Monument on a one dollar bill")
 
-Five dollar bill: The Capitol Building, Twenty dollar bill: The White House
+Five dollar bill: The Capitol Building
+![AR Capitol Building](assets/CityAR_capitol.jpg?raw=true "Capitol building on a five dollar bill")
 
+Twenty dollar bill: The White House
+![AR White House](assets/CityAR_whitehouse.jpg?raw=true "White House on a twenty dollar bill")
